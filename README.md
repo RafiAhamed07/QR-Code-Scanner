@@ -42,4 +42,5 @@ python qr_ocr_scanner.py
   - If a QR code is detected, its URL will automatically open in the default web browser.
   - Press 'q' to exit the application.
 
-
+## Create your own QR Code
+CLick here : [QR_Code_Generator](https://github.com/RafiAhamed07/QR_Code_Generator)
